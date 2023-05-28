@@ -13,9 +13,9 @@ This project is to develop image classification problem that will predict whethe
 ### Data
 * `app.py`: Web app that classfies recyclables with the model from training data
 * `fil_uploader.html`: Simple html code to test the classification
-* `222355509_assignment2_solution.ipynb`: The code explored and developed classification model
-* `final_model.h5`: The output model from `222355509_assignment2_solution.ipynb`
-* `kaggle.json`: API key to download dataset from kaggle
+* `222355509_assignment2_solution.ipynb`: The code explored and developed classification model which will produce HDF5 file of the model
+* `final_model.h5.zip`: The output model from `222355509_assignment2_solution.ipynb` (This file is zipped due to the file size limit)
+* `kaggle.json`: API key to download dataset from kaggle (not tracked sine it is an API key)
 * `dataset-resized.zip`: Download from https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE?resourcekey=0-F-D8v2tnSfByG6ll3t9JxA and it was referred by https://github.com/garythung/trashnet
 
 ### Deployment
